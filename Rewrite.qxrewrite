@@ -1,0 +1,4 @@
+# 555 Video ADaway
+
+^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic url reject-200
+hostname= vpic.cms.qq.com
