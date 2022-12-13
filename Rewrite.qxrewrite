@@ -4,5 +4,5 @@
 
 ^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-200
 
-hostname= vpic.cms.qq.com sares.pizzahut.com.cn
+hostname= vpic.cms.qq.com, sares.pizzahut.com.cn
 
