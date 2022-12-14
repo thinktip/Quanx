@@ -2,7 +2,7 @@
 
 ^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic url reject-200
 
-^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-200
+^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-dict
 
 hostname= vpic.cms.qq.com, sares.pizzahut.com.cn
 
