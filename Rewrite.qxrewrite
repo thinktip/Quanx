@@ -1,8 +1,7 @@
-# 555 Video ADaway
-
+# 555 Video AD Banner
 ^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic url reject-dict
 
+# Pizzahut Splash AD
 ^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-dict
 
 hostname= vpic.cms.qq.com, sares.pizzahut.com.cn
-
