@@ -7,4 +7,7 @@
 # Taopiaopiao Splash Video AD
 ^http:\/\/vali-ugc\.cp31\.ott\.cibntv\.net url reject-dict
 
-hostname= vpic.cms.qq.com, sares.pizzahut.com.cn, vali-ugc.cp31.ott.cibntv.net
+# FeiZhu
+^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3}-\d{4}\.(jpg|png)$ url reject-dict
+
+hostname= vpic.cms.qq.com, sares.pizzahut.com.cn, vali-ugc.cp31.ott.cibntv.net, gw.alicdn.com
