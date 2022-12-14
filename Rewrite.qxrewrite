@@ -4,7 +4,7 @@
 # Pizzahut Splash AD
 ^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-dict
 
-#
+# Taopiaopiao Splash Video AD
 ^http:\/\/vali-ugc\.cp31\.ott\.cibntv\.net url reject-dict
 
 hostname= vpic.cms.qq.com, sares.pizzahut.com.cn, vali-ugc.cp31.ott.cibntv.net
