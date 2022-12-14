@@ -1,6 +1,6 @@
 # 555 Video ADaway
 
-^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic url reject-200
+^https?:\/\/vpic\.cms\.qq\.com\/nj_vpic url reject-dict
 
 ^https?:\/\/sares\.pizzahut\.com\.cn\/uatfile\/ad url reject-dict
 
